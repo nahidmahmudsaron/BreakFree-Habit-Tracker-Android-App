@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_max_width">640dp</dimen>
+    <dimen name="screen_padding">32dp</dimen>
+    <dimen name="card_padding">32dp</dimen>
+
+    <dimen name="title_size">32sp</dimen>
+    <dimen name="body_size">17sp</dimen>
+    <dimen name="streak_number_size">120sp</dimen>
+    <dimen name="rank_name_size">30sp</dimen>
+    <dimen name="rank_icon_size">38sp</dimen>
+
+    <dimen name="badge_size">80dp</dimen>
+    <dimen name="icon_button_size">56dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+</resources>

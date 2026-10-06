@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BreakFree</string>
+    <string name="tagline">Break the Habit. Build Yourself.</string>
+    <string name="tagline_quoted">\u201CBreak the Habit. Build Yourself.\u201D</string>
+
+    <string name="current_streak">CURRENT STREAK</string>
+    <string name="current_rank">CURRENT RANK</string>
+    <string name="days_label_default">DAYS</string>
+
+    <string name="started_on">Started: %1$s</string>
+    <string name="no_streak_message">No active streak yet. Start today or pick your start date.</string>
+    <string name="next_milestone">Next milestone: %1$s (%2$s)</string>
+    <string name="max_rank_reached">You reached the highest rank. Legendary!</string>
+    <string name="max_rank_remaining">Nothing can stop you now.</string>
+
+    <string name="start_today">Start Today</string>
+    <string name="set_start_date">Set Start Date</string>
+    <string name="change_start_date">Change Date</string>
+    <string name="start_date_saved">Start date saved</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <string name="reset_title">Reset your streak?</string>
+    <string name="reset_message">Your current streak of %1$s will be saved to History, and you can start a new one.</string>
+    <string name="streak_reset_done">Streak saved to History. Start a new one when you are ready.</string>
+
+    <string name="history">History</string>
+    <string name="history_empty">No history yet.\nYour past streaks will appear here after you reset.</string>
+    <string name="history_started">Started: %1$s</string>
+    <string name="history_ended">Ended: %1$s</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear_history_title">Clear all history?</string>
+    <string name="clear_history_message">This will permanently delete all saved streaks. This cannot be undone.</string>
+
+    <string name="about">About</string>
+    <string name="created_by">CREATED BY</string>
+    <string name="creator_name">Nahid Mahmud Saron</string>
+    <string name="version">Version 1.0</string>
+    <string name="back">Back</string>
+    <string name="motivation">Every day counts. Keep going. \uD83D\uDCAA</string>
+
+    <plurals name="days_count">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <plurals name="days_to_go">
+        <item quantity="one">%d day to go</item>
+        <item quantity="other">%d days to go</item>
+    </plurals>
+
+    <plurals name="days_unit">
+        <item quantity="one">DAY</item>
+        <item quantity="other">DAYS</item>
+    </plurals>
+</resources>

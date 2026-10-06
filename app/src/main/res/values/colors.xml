@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="background">#FFF4F6FB</color>
+    <color name="card">#FFFFFFFF</color>
+    <color name="card_stroke">#FFE8EBF3</color>
+
+    <color name="primary">#FF4F46E5</color>
+    <color name="primary_dark">#FF3730A3</color>
+    <color name="streak_start">#FF6D5DF6</color>
+    <color name="streak_end">#FF3F37C9</color>
+
+    <color name="danger">#FFEF4444</color>
+
+    <color name="text_primary">#FF111827</color>
+    <color name="text_secondary">#FF6B7280</color>
+
+    <color name="badge_bg">#FFEEF0FF</color>
+    <color name="progress_track">#FFE5E7EB</color>
+    <color name="ripple">#334F46E5</color>
+</resources>
